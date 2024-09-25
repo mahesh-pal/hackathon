@@ -1,0 +1,8 @@
+functions-framework==3.*
+langchain
+pinecone
+langchain_openai
+google-cloud-bigquery
+google-cloud-storage
+google-cloud
+langchain_pinecone
